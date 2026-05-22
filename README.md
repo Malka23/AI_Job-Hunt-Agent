@@ -186,9 +186,9 @@ streamlit run app/main.py
 
 ## 🙋‍♂️ Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Malka Naaz**
+- GitHub: [@Malka23](https://github.com/Malka23)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/malka-naaz-870338145)
 
 ---
 
